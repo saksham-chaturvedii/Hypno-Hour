@@ -1,7 +1,4 @@
-# Static Clock:
-![image](https://user-images.githubusercontent.com/81289215/121090170-c9257900-c805-11eb-99d1-4d256bcdd160.png)
-
-
+![image](https://user-images.githubusercontent.com/81289215/122619279-b46e9e00-d0ad-11eb-921b-a1018ea077fa.png)
 
 
 # Animated Clock:
